@@ -35,16 +35,5 @@ The output of the software will first be the colors that followed the algorithm 
 These colors will have to be manually sorted within the correctly sorted entries above. These unmatched colors likely signify that the inputted "color sequence" file 
 is outdated and in need of updating.  
 
-
-Installation:
-1. Copy the zip folder from the I-drive onto your pc (your location of choice).
-2. Extract the folder in the location of choice  
-3. Navigate through the extracted folder contents as shown below:
-    - color_scheduler (folder)
-    - color_scheduler (folder) (2nd)
-4. Find and move the file "color_scheduler.exe" to a convenient location for ease of use (optional)
-    - you may also use the "send to" -> "Desktop" options on the right click of the mouse
-5. Double click the executable (.exe) and the program will start.
-
 Bug Report/Feedback form:
 https://forms.office.com/Pages/DesignPageV2.aspx?origin=NeoPortalPage&subpage=design&id=b6WNC91KR0a8VR2kwHD_ASsGFTGswvFOin0cLP8glVhUM1lWTFBEMENETktVRUE3VU8yNTlWNUU4RC4u&topview=Preview
